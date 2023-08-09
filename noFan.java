@@ -33,7 +33,7 @@ public class noFan {
         System.out.print("Введи, сколько евро");
         int euro = in.nextInt();
 
-        System.out.print(euro * 105);
+        System.out.print(euro * 104);
 
     }
 
